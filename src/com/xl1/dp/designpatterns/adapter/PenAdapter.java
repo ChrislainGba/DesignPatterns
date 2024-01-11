@@ -1,7 +1,7 @@
 package com.xl1.dp.designpatterns.adapter;
 
 public class PenAdapter implements Pen{
-	PilotPen pp = new PilotPen();
+	PilotPen pp = new PilotPenImpl();
 
 	@Override
 	public void write(String str) {
