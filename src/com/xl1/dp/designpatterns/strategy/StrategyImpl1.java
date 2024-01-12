@@ -4,7 +4,7 @@ public class StrategyImpl1 implements Strategy{
 
 	@Override
 	public void operationStrategy() {
-		System.out.println("Application Strategy 1");
+		System.out.println("Application Strategy 01");
 		
 	}
 
