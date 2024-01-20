@@ -1,5 +1,5 @@
 package com.xl1.dp.designpatterns.composite;
-
+//Compose des objets dans des structures arborescentes pour représenter une hiérarchie partie-tout.
 public class CompositeDP {
 	public static void main(String[] args) {
 		Component hd = new Leaf(300.5, "HDD");

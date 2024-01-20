@@ -1,5 +1,5 @@
 package com.xl1.dp.designpatterns.observer;
-
+//Lorsque la modification d'un objet doit entraîner des modifications dans d'autres objets sans les coupler de manière rigide.
 public class ObserverDP {
 
 	public static void main(String[] args) {

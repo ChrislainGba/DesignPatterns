@@ -1,6 +1,6 @@
 package com.xl1.dp.designpatterns.strategy;
 
-
+//Lorsqu'il est nécessaire de définir une famille d'algorithmes, les encapsuler et les rendre interchangeables.
 public class StrategyDP {
 	public static void main(String[] args) {
 		Context ctx = new Context();
