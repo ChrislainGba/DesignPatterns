@@ -2,6 +2,7 @@ package com.xl1.dp.designpatterns.abstractfactory;
 
 import java.lang.reflect.InvocationTargetException;
 
+//L'Abstract Factory est un design pattern de création qui fournit une interface pour créer des familles d'objets liés ou dépendants sans spécifier leurs classes concrètes. 
 public class AbstractFactoryDP {
 
 	public static void main(String[] args) throws InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException, NoSuchMethodException, SecurityException, ClassNotFoundException {
