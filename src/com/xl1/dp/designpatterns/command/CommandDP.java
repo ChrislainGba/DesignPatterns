@@ -2,7 +2,7 @@ package com.xl1.dp.designpatterns.command;
 
 public class CommandDP {
 	//Catégorie: Comportement
-	//Objectif: ENcapsuler une requete sous la foeme d'object.
+	//Objectif: Encapsuler une requete sous la forme d'object.
 	//			Parametrer facilement des requetes diverses.
 	//			Permettre des requetes reversibles.
 	//Résultat: Isolation d'une requete.

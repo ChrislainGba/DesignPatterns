@@ -11,7 +11,7 @@ public class CommandC implements Command{
 
 
 	@Override
-	public void excercute() {
+	public void execute() {
 		recepteur.action3();
 		
 	}

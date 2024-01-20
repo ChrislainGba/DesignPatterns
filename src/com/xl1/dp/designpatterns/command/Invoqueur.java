@@ -14,7 +14,7 @@ public class Invoqueur {
 	public void invoquer(String ref) {
 		Command cmd = commands.get(ref);
 		if(cmd!=null) {
-			cmd.excercute();
+			cmd.execute();
 		}
 	}
 }

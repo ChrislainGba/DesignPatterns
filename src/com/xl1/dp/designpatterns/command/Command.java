@@ -1,5 +1,6 @@
 package com.xl1.dp.designpatterns.command;
 
 public interface Command {
-	public void excercute();
+	public void execute();
 }
+s
