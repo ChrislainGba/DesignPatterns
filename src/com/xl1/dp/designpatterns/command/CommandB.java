@@ -11,7 +11,7 @@ public class CommandB implements Command{
 
 
 	@Override
-	public void execute() {ss
+	public void execute() {
 		recepteur.action2();
 		
 	}
